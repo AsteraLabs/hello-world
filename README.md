@@ -1,5 +1,5 @@
 # hello-world
 
-ASTERA LABS -- Purpose-build connectivity solutions for intelligent systems.
+ASTERA LABS -- Purpose-built connectivity solutions for intelligent networks
 
-At Astera Labs, we embrace the open-source community and we're committed to contributing lots of code so no one has to "reinvent the wheel."
+We're firm believers in open-source code, and we're committed to posting lots of it so no one has to "reinvent the wheel"! Stay tuned!
